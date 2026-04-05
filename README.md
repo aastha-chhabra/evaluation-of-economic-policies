@@ -1,10 +1,9 @@
-# Evaluating Economic Policies through Classical and Quantum Algorithms
+# Evaluating Economic Policies through the Lens of Classical and Quantum Algorithms
 
 A research project comparing classical machine learning and quantum algorithms for modeling **CPI inflation dynamics in India (2010–2025)**, using macroeconomic data sourced from the Reserve Bank of India.
 
-**Author:** Aastha Chhabra — Centre of Quantitative Economics and Data Science, BIT Ranchi  
+**Author:** Aastha Chhabra
 **Supervisor:** Dr. Manish Kumar Pandey  
-**Submitted to:** Journal of Policy Modeling
 
 ---
 
