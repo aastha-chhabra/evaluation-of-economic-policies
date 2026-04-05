@@ -135,7 +135,3 @@ See `requirements.txt`. Core libraries:
 - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 
 ---
-
-## Related Publication
-
-> Chhabra, A., & Pandey, M. K. (2025). *Evaluation of Economic Policies through the Lens of Classical and Quantum Algorithms*. Preprint submitted to Journal of Policy Modeling.
